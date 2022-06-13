@@ -1,10 +1,10 @@
 from django.contrib import admin
 from django.urls import path, include
 
-from myblog.views import splash
+from blog.views import splash
 
 urlpatterns = [
     path('', splash, name='splash'),
-    path('blog/', include('myblog.urls')),
+    path('blog/', include('blog.urls')),
     path('admin/', admin.site.urls)
 ]

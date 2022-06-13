@@ -1,2 +1,2 @@
-# My Website
-It is a Django-based website which I use to share information about me as well as my blog posts mostly on software and technology. It is written in Python, HTML and CSS.
+# Django Boilerplate
+It is a boilerplate code for creating Django-based blog website. It is written in Python, JavaScript, HTML and CSS.
