@@ -3,15 +3,15 @@ body {
 }
 
 .bar {
-	background-image: url('/static/img/myy-bar.png');
+	background-image: url('/static/img/bar.png');
 }
 
-.ozet {
+.short-description {
 	overflow: hidden;
 	white-space: nowrap;
 	text-overflow: ellipsis;
 }
 
-.paylas {
+.share-with {
 	padding: 5px;
 }
